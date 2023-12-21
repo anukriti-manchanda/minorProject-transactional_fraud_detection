@@ -1,3 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-minor_project_env/Lib/site-packages/xgboost/lib/xgboost.dll filter=lfs diff=lfs merge=lfs -text
-minor_project_env/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
+
